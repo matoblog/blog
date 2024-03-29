@@ -3,6 +3,7 @@ project:
   output-dir: docs
 website:
   title: "La bruja en la escoba"
+  description: "Un bog de brujas, escobas y cosas"
   navbar:
     right:
       - about.qmd
