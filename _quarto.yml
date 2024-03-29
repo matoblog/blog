@@ -16,5 +16,8 @@ format:
     theme: cosmo
     css: styles.css
 
-
+website:
+  comments:
+    giscus:
+      repo: matoblog/blog
 
