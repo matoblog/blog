@@ -1,5 +1,5 @@
 ---
-title: "Acá va el titulo"
+title: "Algunos pensamientos (no tan) brillantes"
 listing:
   contents: posts
   sort: "date desc"
