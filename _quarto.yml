@@ -11,13 +11,12 @@ website:
         href: https://github.com/matog/
       - icon: twitter
         href: https://twitter.com/mato
+  comments:
+    giscus:
+      repo: matoblog/blog
 format:
   html:
     theme: cosmo
     css: styles.css
 
-website:
-  comments:
-    giscus:
-      repo: matoblog/blog
 

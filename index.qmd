@@ -1,5 +1,5 @@
 ---
-title: "myblog"
+title: "Acá va el titulo"
 listing:
   contents: posts
   sort: "date desc"
