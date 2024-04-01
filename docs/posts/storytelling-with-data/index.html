@@ -149,6 +149,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
    
   <ul>
   <li><a href="#arte-arte-arte." id="toc-arte-arte-arte." class="nav-link active" data-scroll-target="#arte-arte-arte.">Arte, arte, arte.</a></li>
+  <li><a href="#código" id="toc-código" class="nav-link" data-scroll-target="#código">Código</a></li>
   </ul>
 </nav>
     </div>
@@ -223,6 +224,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
 <p>El truco es tener cada serie de datos (<code>received</code> y <code>processed</code>) ‘partida’ en dos. En el <code>dataframe</code> tenemos las series completas. Pero en luego creamos dos series mas chicas, sólo con los datos a los cuales le queremos poner el <code>label</code>. Las lineas se superponen, por lo que tener 4 series no cambia en nada el aspecto visual, pero sólo mostramos los <code>labels</code> de las segundas y mas pequeñas series.</p>
 <p>Para completar, mucha artesanía. Dibujamos una línea vertical, y agregamos el texto descriptivo en la ruptura de las series. Acomodamos los <code>labels</code> para que no pisen las líneas, y formateamos ejes y texto. Al final, el resultado.</p>
+</section>
+<section id="código" class="level2">
+<h2 class="anchored" data-anchor-id="código">Código</h2>
 <div class="cell" data-execution_count="1">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">## Importamos librerias</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
