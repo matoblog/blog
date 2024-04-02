@@ -26,8 +26,11 @@ website:
         text: Hecho con Quarto
 format:
   html:
-    theme: 
-      light: [flatly, styles-light.scss]
+    theme:
+      light: [litera, styles.scss]
       dark: [darkly, styles-dark.scss]
+#    theme: 
+#      light: [flatly, styles-light.scss]
+#      dark: [darkly, styles-dark.scss]
 
 
