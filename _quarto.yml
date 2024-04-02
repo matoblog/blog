@@ -4,6 +4,9 @@ project:
 website:
   title: "La bruja en la escoba"
   description: "Un bog de brujas, escobas y cosas"
+  site-url: "https://matoblog.github.io/blog/"
+  repo-url: "https://github.com/matoblog/blog"
+  twitter-card: true
   navbar:
     right:
       - about.qmd
@@ -14,11 +17,17 @@ website:
   comments:
     giscus:
       repo: matoblog/blog
-  google-analytics: G-FFCGK0HWMP
+  google-analytics: "G-FFCGK0HWMP"
   cookie-consent: true
+  page-footer:
+    left: "© Copyright 2024 Mato. CC BY-SA 4.0 Deed"
+    right:
+      - href: https://www.quarto.org
+        text: Hecho con Quarto
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      light: [flatly, styles-light.scss]
+      dark: [darkly, styles-dark.scss]
 
 
