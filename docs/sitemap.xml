@@ -2,18 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://matoblog.github.io/blog/index.html</loc>
-    <lastmod>2024-04-02T21:41:51.648Z</lastmod>
+    <lastmod>2024-04-04T16:04:28.723Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matoblog.github.io/blog/draft/Graficos del Financial Times en Python/index.html</loc>
+    <lastmod>2024-04-04T16:04:26.031Z</lastmod>
   </url>
   <url>
     <loc>https://matoblog.github.io/blog/posts/diagrama-de-sankey-y-presupuesto/index.html</loc>
-    <lastmod>2024-04-02T21:41:49.064Z</lastmod>
+    <lastmod>2024-04-04T16:03:59.079Z</lastmod>
   </url>
   <url>
     <loc>https://matoblog.github.io/blog/posts/storytelling-with-data/index.html</loc>
-    <lastmod>2024-04-02T21:41:47.652Z</lastmod>
+    <lastmod>2024-04-04T16:03:56.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matoblog.github.io/blog/draft/Graficos del Financial Times en Python/Financial Times.html</loc>
+    <lastmod>2024-04-04T16:04:01.651Z</lastmod>
   </url>
   <url>
     <loc>https://matoblog.github.io/blog/about.html</loc>
-    <lastmod>2024-04-02T21:41:50.272Z</lastmod>
+    <lastmod>2024-04-04T16:04:27.179Z</lastmod>
   </url>
 </urlset>
