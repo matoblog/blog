@@ -2,26 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://matoblog.github.io/blog/index.html</loc>
-    <lastmod>2024-04-04T16:04:28.723Z</lastmod>
+    <lastmod>2024-04-07T15:24:44.434Z</lastmod>
   </url>
   <url>
-    <loc>https://matoblog.github.io/blog/draft/Graficos del Financial Times en Python/index.html</loc>
-    <lastmod>2024-04-04T16:04:26.031Z</lastmod>
+    <loc>https://matoblog.github.io/blog/draft/Listando tipografías instaladas/index.html</loc>
+    <lastmod>2024-04-07T15:24:41.562Z</lastmod>
   </url>
   <url>
-    <loc>https://matoblog.github.io/blog/posts/diagrama-de-sankey-y-presupuesto/index.html</loc>
-    <lastmod>2024-04-04T16:03:59.079Z</lastmod>
-  </url>
-  <url>
-    <loc>https://matoblog.github.io/blog/posts/storytelling-with-data/index.html</loc>
-    <lastmod>2024-04-04T16:03:56.403Z</lastmod>
+    <loc>https://matoblog.github.io/blog/draft/NYT/index.html</loc>
+    <lastmod>2024-04-07T15:24:35.038Z</lastmod>
   </url>
   <url>
     <loc>https://matoblog.github.io/blog/draft/Graficos del Financial Times en Python/Financial Times.html</loc>
-    <lastmod>2024-04-04T16:04:01.651Z</lastmod>
+    <lastmod>2024-04-07T15:24:05.401Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matoblog.github.io/blog/posts/storytelling-with-data/index.html</loc>
+    <lastmod>2024-04-07T15:24:01.225Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matoblog.github.io/blog/posts/diagrama-de-sankey-y-presupuesto/index.html</loc>
+    <lastmod>2024-04-07T15:24:02.841Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matoblog.github.io/blog/draft/Graficos del Financial Times en Python/index.html</loc>
+    <lastmod>2024-04-07T15:24:22.126Z</lastmod>
+  </url>
+  <url>
+    <loc>https://matoblog.github.io/blog/draft/NYT/2022-04-18-Economist-style.html</loc>
+    <lastmod>2024-04-07T15:24:36.626Z</lastmod>
   </url>
   <url>
     <loc>https://matoblog.github.io/blog/about.html</loc>
-    <lastmod>2024-04-04T16:04:27.179Z</lastmod>
+    <lastmod>2024-04-07T15:24:43.050Z</lastmod>
   </url>
 </urlset>
